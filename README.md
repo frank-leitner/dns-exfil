@@ -10,10 +10,6 @@ Some time later, the same auditor was back again. This time, he was adamant that
 
 While I no longer publish the keystroke logger source code (it was abused too much), I wanted to make this old code public. I wrote this quickly to prove a technical truth to a bureaucrat, so please forgive the code quality. It works, of course, but could use some polish.
 
-## Blog
-
-If you like this, you may like some of the stories on my [blog](https://www.go350.com/).
-
 ## Notes
 
 I used BIND when I initially wrote this. However, any authoritative DNS server would do. Today, I use coredns as it's easier to setup and more secure.
