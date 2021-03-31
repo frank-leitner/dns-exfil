@@ -1,2 +1,4 @@
 # dns-exfil
-A program to exfiltrate files from a computer using the DNS
+
+A program to exfiltrate files from computers using the DNS.
+
