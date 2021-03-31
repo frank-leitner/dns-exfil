@@ -1,4 +1,4 @@
-# dns-exfil - recv
+# dns-exfil: recv
 
 Run recv on the DNS server to re-assemble the exfiltrated files.
 

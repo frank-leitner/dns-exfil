@@ -1,4 +1,4 @@
-# dns-exfil - send
+# dns-exfil: send
 
 Run send on the target computer to exfiltrate files.
 

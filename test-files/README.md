@@ -1,4 +1,4 @@
-# dns-exfil - test-files
+# dns-exfil: test-files
 
 Some test files for dns-exfil to exfiltrate.
 
