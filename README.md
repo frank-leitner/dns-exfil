@@ -16,4 +16,4 @@ If you like this, you may like some of the stories on my [blog](https://www.go35
 
 ## Notes
 
-I used BIND when I initially wrote this. However, any authoritative DNS server would do.
+I used BIND when I initially wrote this. However, any authoritative DNS server would do. Today, I use coredns as it's easier to setup and more secure.
